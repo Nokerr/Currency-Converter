@@ -6,5 +6,5 @@ Deployed Project Link: https://currency-converter-theta-wine.vercel.app/
 
 To run project:
 
-npm i
-npm start
+1. npm i
+2. npm start
